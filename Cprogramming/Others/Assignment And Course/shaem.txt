@@ -1,0 +1,42 @@
+Appropriate Font:	Courier New
+Size:	10
+      Applied Physics,Electronics and Communication Engineering
+                      University of Chittagong
+
+                        Course: APEC 211
+
+      -----------------------------------------------------------
+     |Serial|   ID     | Atd | CT-1 | CT-2 | CT-3 | Avg  | Total |
+      -----------------------------------------------------------
+     |  1   | 15702015 | 10.0| 18.00| 17.00| 19.00| 18.50| 28.50 |
+      -----------------------------------------------------------
+
+
+Created By:
+	Towqir Ahmed Shaem
+	Abdullah Zowad Khan
+	Md. Abdul Kaium Khan
+
+
+Appropriate Font:	Courier New
+Size:	10
+          Applied Physics,Electronics and Communication Engineering
+                          University of Chittagong
+
+                         Course: APEC 211
+
+  -------------------------------------------------------------------------
+ |Serial|   ID     | Atd | CT-1 | CT-2 | CT-3 | CT-4 | CT-5 | Avg  | Total |
+  -------------------------------------------------------------------------
+ |  1   | 15702015 |  9.0| 13.00| 12.00| 11.00| 13.00| 18.00| 14.67| 23.67 |
+  -------------------------------------------------------------------------
+ |  2   | 15702016 | 10.0| 12.00| 12.00| 12.00| 13.00| 14.00| 13.00| 23.00 |
+  -------------------------------------------------------------------------
+
+
+Created By:
+	Towqir Ahmed Shaem
+	Abdullah Zowad Khan
+	Md. Abdul Kaium Khan
+
+
